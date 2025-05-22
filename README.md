@@ -1,5 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on an Automation tool to do data entries from csv to a PDF sheet<br>👯 I’m looking to collaborate on any interesting projects<br>🌱 I’m currently how to implement AI to boost my productivity in building and deploying new projects<br>💬 Hobbies: Programming, Tinkering, flying FPV drones (yes the one with the goggles that make you look like an insect) and working out / general physical fitness and health<br>⚡ Currently 17 and will soon graduate Highscool and after that insantly start college.
+
+
 I know it is scuffed that i have so many commits but so little public repos and that they are of such low quality but that is simply because most of my repos are private and my private projects:) im looking to contribute to other projects more tho and build more public projects...
 
 
