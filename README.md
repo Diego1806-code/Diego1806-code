@@ -10,7 +10,7 @@ I know it is scuffed that i have so many commits but so little public repos and 
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=Diego1806-code&theme=dark&hide_border=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Diego1806-code&theme=dark&hide_border=false)<br/>
 
 ---
 
