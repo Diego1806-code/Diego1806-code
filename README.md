@@ -1,4 +1,4 @@
-I build shit.
+im lowk printing guys hehe
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Diego1806-code/Diego1806-code/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Diego1806-code/Diego1806-code/output/github-snake.svg" />
